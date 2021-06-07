@@ -1,6 +1,6 @@
 # hello-wolrd
 
-Hi wolrd.
+Hi world.
 
 I'm Rita Oliveira.
 
